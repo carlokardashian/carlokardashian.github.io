@@ -2,3 +2,4 @@ p { line-height: 1.5; margin-bottom: 15px;  font-size: 20px }
 #texto1 { font-size: 96px }
 .titulo{font: 20px ;font-family: 'Adamina', serif;}
 body {background-color: darkmagenta; color: ivory; text-align: center;  }
+#autor{font-style: italic; margin-bottom: 50px; font-family: 'Adamina';  }
