@@ -4,4 +4,4 @@ p { line-height: 1.5; margin-bottom: 15px;  font-size: 20px }
 body {background-color: darkmagenta; color: ivory; text-align: center;  }
 #autor{font-style: italic; margin-bottom: 50px; font-family: 'Adamina';  }
 .cancion{margin:auto; padding: 20px; text-align: left; width: 400px;}
-.cancion h2 + p:first-letter{float:left; font-size: 38px; line-height: 1; margin: 2px 5px 0 0; }
+#parrafo1 :first-letter{float:left; font-size: 38px; line-height: 1; margin: 2px 5px 0 0; }
