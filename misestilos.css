@@ -5,4 +5,5 @@ body {background-color: darkmagenta; color: ivory; text-align: center;  }
 #autor{font-style: italic; margin-bottom: 50px; font-family: 'Adamina';  }
 .cancion{margin:auto; padding: 20px; text-align: left; width: 400px;}
 #parrafo1:first-letter{float:left; font-size: 38px; line-height: 1; margin: 2px 5px 0 0; }
-p:nth-child(2; 4){background: cyan; font-family: 'Roboto Slab', serif;}
+p:nth-child(2){background: cyan; font-family: 'Roboto Slab', serif;}
+p:nth-child(4){background: cyan; font-family: 'Roboto Slab', serif;}
