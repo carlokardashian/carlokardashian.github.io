@@ -24,9 +24,9 @@ border: 29px;
 -moz-border-image: url("images/diamonds.png") 29 stretch;
 -webkit-border-image: url("images/diamonds.png") 29 stretch;
 border-image: url("images/diamonds.png") 29 stretch;
--moz-transform: scale(1,-1);
--webkit-transform: scale(1,-1);
-transform: scale(1,-1);
+-moz-transform: rotate (30deg);
+-webkit-transform: rotate (30deg);
+transform: rotate (30deg);
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
