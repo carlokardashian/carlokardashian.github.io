@@ -14,7 +14,7 @@ background: #dddddd;
 border-radius: 20px;
 -moz-box-shadow: rgb(46, 85, 255) 5px 5px 10px inset;
 -webkit-box-shadow:  rgb(0, 247, 255)px 5px 10px inset;
-box-shadow:  rgb(127, 29, 255) 5px 5px 10px inset;
+box-shadow:  rgb(159, 29, 255) 5px 5px 10px inset;
 background: -webkit-linear-gradient(left, #ffffff, #006699);
 background: -moz-linear-gradient(left, #ffffff, #006699);
 background: radial-gradient(center, circle, #ffffff 0%, #006699 200%);
@@ -22,5 +22,5 @@ background: radial-gradient(center, circle, #ffffff 0%, #006699 200%);
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
-    text-shadow: rgb(0,0,150) 3px 3px 5px;
+    text-shadow: rgba(0,0,0, 0.5) 3px 3px 5px;
 }
