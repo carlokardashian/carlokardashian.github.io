@@ -26,9 +26,12 @@ border: 29px;
 border-image: url("images/diamonds.png") 29 stretch;
 }
 #principal:hover{
-    -moz-transform: rotate(25deg);
+ /*   -moz-transform: rotate(25deg);
     -webkit-transform: rotate(25deg);
-transform: rotate(25deg);
+transform: rotate(25deg); */
+-moz-transform: ls ease-in-out 0.5s;
+-webkit-transform: ls  ease-in-out 0.5s;
+transform: ls  ease-in-out 0.5s;
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
