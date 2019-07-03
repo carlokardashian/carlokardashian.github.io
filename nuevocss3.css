@@ -18,7 +18,8 @@ box-shadow:  rgb(159, 29, 255) 5px 5px 10px inset;
 background: -webkit-linear-gradient(left, #ffffff, #006699);
 background: -moz-linear-gradient(left, #ffffff, #006699);
 background: radial-gradient(center, circle, #ffffff 0%, #006699 200%);
-
+outline: 2px dashed #000099;
+outline-offset: 15px;
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
